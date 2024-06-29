@@ -1,5 +1,6 @@
 ### My Reading Log
 
+<h5>
 1. Educated: A Memoir - Tara Westover <br>
 2. Leading Digital: Turning Technology into Business Transformation -  George Westerman, Didier Bonnet, Andrew McAfee <br>
 3. iGen: Why Today's Super-Connected Kids Are Growing Up Less Rebellious, More Tolerant, Less Happy and Completely Unprepared for Adulthood and What That Means for the Rest of Us - Jean M. Twenge <br>
@@ -23,3 +24,4 @@
 21. The Book of Why: The New Science of Cause and Effect - Judea Pearl, Dana Mackenzie <br>
 22. The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage - Cliff Stoll <br>
 23. A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins [Currently Reading] <br>
+</h5>
