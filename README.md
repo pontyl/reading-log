@@ -6,10 +6,10 @@
 4. Poor Economics - Abhijit V. Banerjee, Esther Duflo <br>
 5. A Deadly Wandering: A Mystery, a Landmark Investigation, and the Astonishing Science of Attention in the Digital Age - Matt Richtel <br>
 6. The Cyber Effect: A Pioneering Cyberpsychologist Explains How Human Behavior Changes Online - Mary Aiken <br>
-7. The Oxford Handbook of Internet Studies (Oxford Handbooks) - William H. Dutton <br>
-8. Computational Propaganda: Political Parties, Politicians, and Political Manipulation on Social Media (Oxford Studies in Digital Politics) - Samuel C. Woolley, Philip N. Howard <br>
+7. The Oxford Handbook of Internet Studies - William H. Dutton <br>
+8. Computational Propaganda: Political Parties, Politicians, and Political Manipulation on Social Media - Samuel C. Woolley, Philip N. Howard <br>
 9. Political Turbulence: How Social Media Shape Collective Action -  Helen Margetts, Peter John, Scott Hale, Taha Yasseri <br>
-10. Digital Transformations of the Public Arena (Elements in Politics and Communication) - Andreas Jungherr, Ralph Schroeder <br>
+10. Digital Transformations of the Public Arena - Andreas Jungherr, Ralph Schroeder <br>
 11. Social Theory After the Internet - Ralph Schroeder <br>
 12. China, Africa, and the Future of the Internet - Iginio Gagliardone <br>
 13. The Great Firewall of China: How to Build and Control an Alternative Version of the Internet - James Griffiths <br>
