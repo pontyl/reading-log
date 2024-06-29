@@ -2,7 +2,7 @@
 
 <h6>
 1. Educated: A Memoir - Tara Westover (ISBN 978-0399590528)
-2. Leading Digital: Turning Technology into Business Transformation -  George Westerman, Didier Bonnet, Andrew McAfee (ISBN 978-1625272478)
+2. Leading Digital: Turning Technology into Business Transformation -  George Westerman, Didier Bonnet, Andrew McAfee (ISBN 978-1625272478) \\
 3. iGen: Why Today's Super-Connected Kids Are Growing Up Less Rebellious, More Tolerant, Less Happy and Completely Unprepared for Adulthood and What That Means for the Rest of Us - Jean M. Twenge (ISBN 978-1501152016)
 4. Poor Economics - Abhijit V. Banerjee, Esther Duflo (ISBN 978-0718193669)
 5. A Deadly Wandering: A Mystery, a Landmark Investigation, and the Astonishing Science of Attention in the Digital Age - Matt Richtel (ISBN 978-0062284075)
@@ -23,5 +23,5 @@
 20. The Stuff of Thought: Language as a Window into Human Nature - Steven Pinker (ISBN 978-0141015477)
 21. The Book of Why: The New Science of Cause and Effect - Judea Pearl, Dana Mackenzie (ISBN 978-0141982410)
 22. The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage - Cliff Stoll (ISBN 978-1416507789)
-23. A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins (ISBN 978-1541675797) ----- [Currently Reading...]
+23. A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins (ISBN 978-1541675797) [...Currently Reading...]
 </h6>
