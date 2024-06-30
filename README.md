@@ -14,12 +14,14 @@
 12. China, Africa, and the Future of the Internet - Iginio Gagliardone <br>
 13. The Great Firewall of China: How to Build and Control an Alternative Version of the Internet - James Griffiths <br>
 14. Red Roulette: An Insider's Story of Wealth, Power, Corruption, and Vengeance in Today's China - Desmond Shum <br>
-15. Reality Is Broken: Why Games Make Us Better and How They Can Change the World Paperback - Jane McGonigal <br>
-16. Reality+: Virtual Worlds and the Problems of Philosophy - David J. Chalmers <br>
-17. Thinking, Fast and Slow - Daniel Kahneman <br>
-18. Scale: The Universal Laws of Life and Death in Organisms, Cities and Companies - Geoffrey West <br>
-19. Scarcity: The True Cost of Not Having Enough - Sendhil Mullainathan <br>
-20. The Stuff of Thought: Language as a Window into Human Nature - Steven Pinker <br>
-21. The Book of Why: The New Science of Cause and Effect - Judea Pearl <br>
-22. The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage - Cliff Stoll <br>
-23. A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins [Currently Reading] <br>
+15. Snow Crash - Neal Stephenson
+16. Ready Player One - Ernest Cline
+17. Reality Is Broken: Why Games Make Us Better and How They Can Change the World Paperback - Jane McGonigal <br>
+18. Reality+: Virtual Worlds and the Problems of Philosophy - David J. Chalmers <br>
+19. Thinking, Fast and Slow - Daniel Kahneman <br>
+20. Scale: The Universal Laws of Life and Death in Organisms, Cities and Companies - Geoffrey West <br>
+21. Scarcity: The True Cost of Not Having Enough - Sendhil Mullainathan <br>
+22. The Stuff of Thought: Language as a Window into Human Nature - Steven Pinker <br>
+23. The Book of Why: The New Science of Cause and Effect - Judea Pearl <br>
+24. The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage - Cliff Stoll <br>
+25. A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins [Currently Reading] <br>
