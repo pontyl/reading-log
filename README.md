@@ -29,4 +29,6 @@
 27. The Stuff of Thought: Language as a Window into Human Nature - Steven Pinker
 28. The Book of Why: The New Science of Cause and Effect - Judea Pearl
 29. The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage - Cliff Stoll
-30. A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins [Currently Reading]
+30. Bullshit Jobs: A Theory - David Graeber 
+31. Amusing Ourselves to Death: Public Discourse in the Age of Show Business - Neil Postman
+32. A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
