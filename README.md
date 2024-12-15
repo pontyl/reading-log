@@ -32,4 +32,5 @@
 30. The Stuff of Thought: Language as a Window into Human Nature - Steven Pinker
 31. Thinking, Fast and Slow - Daniel Kahneman
 32. A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
-33. Vision (Darwin College Lectures) -  Andrew Fabian [reading...]
+33. Vision (Darwin College Lectures) -  Andrew Fabian
+34. The New Mind Readers: What Neuroimaging Can and Cannot Reveal about Our Thoughts - Russell Poldrack [reading...]
