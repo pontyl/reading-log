@@ -33,4 +33,6 @@
 31. Thinking, Fast and Slow - Daniel Kahneman
 32. A Thousand Brains: A New Theory of Intelligence - Jeff Hawkins
 33. Vision (Darwin College Lectures) -  Andrew Fabian
-34. The New Mind Readers: What Neuroimaging Can and Cannot Reveal about Our Thoughts - Russell Poldrack [reading...]
+34. The New Mind Readers: What Neuroimaging Can and Cannot Reveal about Our Thoughts - Russell Poldrack
+35. NeuroScience Fiction - Rodrigo Quian Quiroga
+36. Electric Brain: How the New Science of Brainwaves Reads Minds, Tells Us How We Learn, and Helps Us Change for the Better - R. Douglas Fields [reading...]
