@@ -35,4 +35,7 @@
 33. Vision (Darwin College Lectures) -  Andrew Fabian
 34. The New Mind Readers: What Neuroimaging Can and Cannot Reveal about Our Thoughts - Russell Poldrack
 35. NeuroScience Fiction - Rodrigo Quian Quiroga
-36. Electric Brain: How the New Science of Brainwaves Reads Minds, Tells Us How We Learn, and Helps Us Change for the Better - R. Douglas Fields [reading...]
+36. Electric Brain: How the New Science of Brainwaves Reads Minds, Tells Us How We Learn, and Helps Us Change for the Better - R. Douglas Fields
+37. Human Compatible: Artificial Intelligence and the Problem of Control - Stuart Russell
+38. Why We Sleep: The New Science of Sleep and Dreams - Matthew Walker
+39. Connectome: How the Brain's Wiring Makes Us Who We Are - Sebastian Seung [reading...]
