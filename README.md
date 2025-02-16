@@ -38,4 +38,5 @@
 36. Electric Brain: How the New Science of Brainwaves Reads Minds, Tells Us How We Learn, and Helps Us Change for the Better - R. Douglas Fields
 37. Human Compatible: Artificial Intelligence and the Problem of Control - Stuart Russell
 38. Why We Sleep: The New Science of Sleep and Dreams - Matthew Walker
-39. Connectome: How the Brain's Wiring Makes Us Who We Are - Sebastian Seung [reading...]
+39. Connectome: How the Brain's Wiring Makes Us Who We Are - Sebastian Seung
+40. The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind - Michio Kaku [reading...]
