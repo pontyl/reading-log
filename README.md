@@ -40,4 +40,5 @@
 38. Why We Sleep: The New Science of Sleep and Dreams - Matthew Walker
 39. Connectome: How the Brain's Wiring Makes Us Who We Are - Sebastian Seung
 40. The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind - Michio Kaku
-41. Reading in the Brain: The New Science of How We Read - Stanislas Dehaene [reading...]
+41. Reading in the Brain: The New Science of How We Read - Stanislas Dehaene
+42. The Idea of the Brain: A History - Matthew Cobb [reading...]
